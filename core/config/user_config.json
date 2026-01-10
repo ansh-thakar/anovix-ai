@@ -1,0 +1,39 @@
+{
+  "email": {
+    "enabled": false,
+    "address": "",
+    "app_password": ""
+  },
+
+  "whatsapp": {
+    "enabled": true,
+    "country_code": "+91"
+  },
+
+  "system": {
+    "allow_shutdown": false,
+    "allow_restart": false,
+    "enabled": true
+  },
+
+  "paths": {
+    "apps": {
+      "vscode": "",
+      "games": []
+    }
+  },
+
+  "camera": {
+    "enabled": false,
+    "language":"en-IN"
+  },
+
+  "voice": {
+    "enabled": true
+  },
+
+  "login": {
+    "enabled": false,
+    "password_hash": ""
+  }
+}
