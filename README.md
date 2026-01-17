@@ -1,6 +1,7 @@
 # ANOVIX AI
 
-ANOVIX AI is a lightweight desktop productivity assistant designed for students and general users.
+ANOVIX AI is a lightweight desktop productivity assistant designed for students and general users
+Download Link-https://github.com/anshthakar791-create/anovix-ai/releases/download/v0.1/ANOVIX_AI_v0.1.1.exe
 
 ## Features
 - Notes management
@@ -19,4 +20,4 @@ ANOVIX AI is a lightweight desktop productivity assistant designed for students 
 - Windows only
 
 ## Installation
-Download the EXE from the Releases section and run it directly.
+Download the EXE (Windows)-https://github.com/anshthakar791-create/anovix-ai/releases/download/v0.1/ANOVIX_AI_v0.1.1.exe
